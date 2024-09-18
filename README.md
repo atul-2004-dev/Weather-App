@@ -1,8 +1,12 @@
 # Weather App
 
-A React.js application that provides weather information using the OpenWeather API. Enter any city to get the current temperature, humidity, wind speed, visibility, and pressure.
+A simple React.js application that provides weather information using the OpenWeather API. Enter any city to get the current temperature, humidity, wind speed, visibility, and pressure.
 
-![Weather App Screenshot](path/to/your/screenshot.png)
+## Demo
+
+Check out the live demo: [Weather App](https://weather-app-pi-lac.vercel.app/)
+
+![Screenshot](https://github.com/user-attachments/assets/4938a7a4-eab3-460d-bbea-0df6e1625e1b)
 
 ## Features
 
